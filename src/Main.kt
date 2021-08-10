@@ -1,6 +1,6 @@
-fun main(args: Array<String>) {
+fun main() {
 
-    // Transforma las siguiente funciones ne Lambdas. Todas las lambda deben estar dentro de main
+    // Transforma las siguientes funciones ne Lambdas. Todas las lambdas deben estar dentro de main
     val list = listOf<Any>("1",2);
 
     val ejercicio1 = {println("Hola")}
